@@ -1,0 +1,252 @@
+html
+{
+
+    margin: 0;
+    
+}
+body
+{
+    font-family: 'Inter';
+    width: 100%;
+    height: 0;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    
+}
+.bold
+{
+    font-weight: 1000;
+}
+.normal
+{
+    font-weight: 500;
+}
+.header
+{
+    display: flex;
+    position: relative;
+    justify-content: center;
+    justify-content: space-between;
+    align-items: center;
+    padding-inline: 10%;
+}
+
+.gambar1
+{
+    position: relative;
+    width: 130px;
+    height: 130px;
+
+}
+.header1
+{
+    display: flex;
+    font-size: 1.5em;
+
+}
+.link
+{
+    font-size: 20px;
+}
+.tosca
+{
+    color:  #19A89D;
+}
+hr
+{
+    border: none;
+    height: 2px;
+    background-color: black;
+}
+.main1
+{
+    display: flex;
+    justify-content: space-between;
+    margin: 10%;
+    align-items: center;
+    
+}
+.gambar2
+{
+    width: 300px;
+    height: 300px;
+}
+H2
+{
+    position: relative;
+    font-size: 1.5em;
+    margin-right: 20%;
+}
+#gabung
+{
+    width: 220.5px;
+    height: 30px;
+    text-align: center;
+    justify-content: center;
+    font-size: 13px;
+    background-color: #19A89D;
+    color: white;
+    border: white;
+}
+
+.main2
+{
+    margin: 10%;
+    width : 30%;
+    position: absolute;
+    margin-top: 0%;
+    
+}
+.gambar3
+{
+    width: 50px;
+    margin-right: 15px;
+    height: 50px;
+}
+.Mentor
+{
+    display: flex;
+    font-size: 30px;
+    align-items: center;
+    font-weight: 600;
+}
+
+.kirikanan
+{
+    display: flex;
+    align-items: flex-start;
+}
+.kiri
+{
+    left: 0;
+}
+
+.kanan
+{
+    left: 53%;
+    position: relative;
+    
+}
+.gambar4
+{
+    width: 50px;
+    height: 50px;
+    margin-right: 15px;
+}
+.Mentee
+{
+    display: flex;
+    font-size: 30px;
+    align-items: center;
+    font-weight: 600;
+}
+.main3
+{
+  position: relative;
+  bottom: 20px;
+  margin-bottom: 10%;
+}
+
+.youtube-center
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: block;
+    text-align: center;
+    margin: auto;
+    width: 450px;
+    height: 300px;
+}
+
+.tulisan-youtube
+{
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+    font-weight: 400;
+
+}
+
+.main4
+{
+    padding: 10%;
+    position: relative;
+    bottom: 80px;
+}
+
+h5
+{
+    font-size: 20px;
+    font-weight: 550;
+}
+
+.input-teks
+{
+    width: 540px;
+    height: 30px;
+}
+
+.button-pesan
+{
+    width: 170px;
+    height: 40px;
+    font-size: 13px;
+    background-color: #19A89D;
+    color: white;
+    border: white;
+    display: flex;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.gambar5
+{
+    position: relative;
+    left: 70%;
+    width: 500px;
+    display: flex;
+    bottom: 260px;
+}
+.footer
+{
+    position: relative;
+    bottom: 400px;
+    
+}
+.rectangle
+{
+    width: 100%;
+    background-color: black;
+    height: 308px;
+}
+.gambar-sosmed
+{
+    display: flex;
+    position: absolute;
+    left: 10%;
+    bottom: 40%;
+    gap: 20px;
+}
+.link-sosmed
+{
+    width: 40px;
+
+}
+.contact
+{
+    color: white;
+    font-weight: 500;
+    font-size: medium;
+    position: absolute;
+    left: 10%;
+    top: 30%;
+}
+.logo-bslc
+{
+    width: 160px;
+    position: absolute;
+    left: 77%;
+    bottom: 22%;
+}
